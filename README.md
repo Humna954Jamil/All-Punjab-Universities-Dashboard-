@@ -1,4 +1,4 @@
-# All-Punjab-Universities-Dashboard-
+# All-Punjab-Universities-Dashboard
 
 The All Punjab Universities Dashboard is a unified platform designed to help students in Punjab find the best university options based on their individual preferences. By inputting details such as academic marks, entry test results, preferred locations, and other criteria, students receive tailored recommendations, making the university selection process more efficient and personalized.
 
