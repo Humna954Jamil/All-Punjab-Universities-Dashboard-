@@ -4,7 +4,7 @@ The All Punjab Universities Dashboard is a unified platform designed to help stu
 
 **Our Approach**
 
-To ensure the dashboard truly met user needs, we conducted a detailed stakeholder analysis, gathering insights from 59 survey responses. This helped us identify key requirements and resolve four major conflicting demands, ensuring that the final dashboard would be universally accessible across diverse student groups.
+To ensure the dashboard truly met user needs, we conducted a detailed stakeholder analysis, gathering insights from **59 survey responses**. This helped us identify key requirements and resolve four major conflicting demands, ensuring that the final dashboard would be universally accessible across diverse student groups.
 
 I played a key role in designing, developing, and iteratively refining the low-fidelity prototype for the dashboard. The design process was user-driven, incorporating:
 
