@@ -1,7 +1,21 @@
 # All-Punjab-Universities-Dashboard-
-In this project, We led the effort to gather stakeholder requirements through 59 survey responses, ensuring that the dashboard was closely aligned with user needs for comprehensive functionality. We resolved 4 major conflicting requirements to achieve universal usability across different user groups. Additionally, I was responsible for designing, developing, and iteratively refining prototypes for the "All Punjab Universities" dashboard. This process included the creation of 3 personas and extensive user testing, which significantly enhanced the overall functionality and user experience.
 
-Here is low fidelity Prototype:
+The All Punjab Universities Dashboard is a unified platform designed to help students in Punjab find the best university options based on their individual preferences. By inputting details such as academic marks, entry test results, preferred locations, and other criteria, students receive tailored recommendations, making the university selection process more efficient and personalized.
+
+**Our Approach**
+
+To ensure the dashboard truly met user needs, we conducted a detailed stakeholder analysis, gathering insights from 59 survey responses. This helped us identify key requirements and resolve four major conflicting demands, ensuring that the final dashboard would be universally accessible across diverse student groups.
+
+I played a key role in designing, developing, and iteratively refining the low-fidelity prototype for the dashboard. The design process was user-driven, incorporating:
+
+1. Three detailed personas to represent different types of students.
+
+2. Extensive user testing to validate usability and refine the interface.
+
+3. Multiple iterations to enhance functionality based on real user feedback.
+
+Below is the low-fidelity prototype, which serves as the foundation for the dashboard’s development, ensuring an intuitive and effective user experience.
+
 
 ![image](https://github.com/user-attachments/assets/5f973971-a73a-4ed9-bb91-6bd558c88c47)
 
